@@ -19,7 +19,7 @@ TheMachineScraper 🐱‍👤 is a tool made purely for analysing machine data f
 
 - Make sure you have Python installed (Recent Versions)
 - Run setup.bat and wait for everything to install
-- Set a designated path/method for sending/storing the dats
+- Set a designated method for sending/storing the output file
 
 TheMachineScraper should now send/store the scraped information.
 
