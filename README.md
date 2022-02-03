@@ -15,13 +15,13 @@ TheMachineScraper 🐱‍👤 is a tool made purely for analysing machine data f
 # Usage 💻
 **Here's the usage guide for TheMachineScrape**
 
-    make sure you have python installed (Recent Versions)
-    run setup.bat and wait for everything to install
-    set a designated path/method for storing the data scrape
+- Make sure you have Python installed (Recent Versions)
+- Run setup.bat and wait for everything to install
+- Set a designated path/method for sending/storing the dats
 
 TheMachineScraper should now send/store the scraped information.
 
 # Final Notes 📝
-**THIS IS NOT MADE TO BE SOME SORT OF MALICIOUS TOOL && I DON'T CONDONE ANY BEHAVIOUR OF THAT MATTER**
+**! THIS IS NOT MADE TO BE A MALICIOUS TOOL !**
 
 If you're going to make changes to this tool, just fork it and leave my credits in - Thanks.
