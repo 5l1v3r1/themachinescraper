@@ -21,7 +21,15 @@ TheMachineScraper 🐱‍👤 is a tool made purely for analysing machine data f
 
 TheMachineScraper should now send/store the scraped information.
 
+# Methods
+
+**There are 2 methods for sending/storing the output file: Save & Webhook**
+
+![image](https://user-images.githubusercontent.com/75194878/152341380-c6acc9bf-407a-40ab-a667-4a4eae2320d0.png)
+![image](https://user-images.githubusercontent.com/75194878/152341660-465caaba-eddb-4ccf-a8f9-2f44627b14a2.png)
+![image](https://user-images.githubusercontent.com/75194878/152342422-7e10594a-7ead-4735-990e-8c9a2cdcfc78.png)
+
 # Final Notes 📝
-**! THIS IS NOT MADE TO BE A MALICIOUS TOOL !**
+**! THIS WAS NOT MADE TO BE USED AS A MALICIOUS TOOL !**
 
 If you're going to make changes to this tool, just fork it and leave my credits in - Thanks.
