@@ -1,6 +1,6 @@
 <p align="center">💥 If you would like to contribute/help, please star this repository or make a pull request with useful changes! 💥 <br>📧 Contact me on Discord: doop#0001 📧</p>
 
-**📌 PINNED NOTE: I'm still working on this! The program is currently very simple but I will make it gather more soon 📌**
+**📌 NOTE: I'm still working on this! The program is currently very simple but I will make it gather more soon 📌**
 
 <div id="top"></div>
 <p align="center">
