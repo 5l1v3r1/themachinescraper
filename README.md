@@ -15,7 +15,7 @@
 TheMachineScraper 🐱‍👤 is a tool made purely for analysing machine data for any reason.
 
 # Usage 💻
-**Here's the usage guide for TheMachineScrape**
+**Here's the usage guide for TheMachineScraper**
 
 - Make sure you have Python installed (Recent Versions)
 - Run setup.bat and wait for everything to install
